@@ -7,6 +7,6 @@ public class Test01 {
     public void test01(){
         System.out.println("Hello,Git!");
         System.out.println("Hello,world!");
-        System.out.println("Hello,z!");
+        System.out.println("Hello,1.1.4!");
     }
 }
